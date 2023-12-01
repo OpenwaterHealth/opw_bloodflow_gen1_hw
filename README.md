@@ -11,7 +11,7 @@ The Generation 1 Stroke Detection Device is the first in a series of prototypes 
 
 - Measure and display blood flow index and blood volume index
 - Included a hand held wand, so many places on the scalp could be meausred
-- Data retrieval was process on the embedded computer
+- Data processed on the embedded computer
 - movable cart 
 
 ## Gen 1 to gen 1B device
