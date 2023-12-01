@@ -10,7 +10,7 @@ The Generation 1 Stroke Detection Device is the first in a series of prototypes 
 ## Features
 
 - Measure and display blood flow index and blood volume index
-- Included a hand held wand, so many places on the scalp could be meausred
+- Included a hand held wand, so many places on the scalp could be measured
 - Data processed on the embedded computer
 - movable cart 
 
