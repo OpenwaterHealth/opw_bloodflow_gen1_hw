@@ -5,14 +5,21 @@ Gen 1 Blood Flow Hardware
 
 # Openwater Generation 1 Blood Flow Device
 
-The Openwater Blood Flow Device is a blood flow measurement system. 
+The Generation 1 Stroke Detection Device is the first in a series of prototypes developed to measure blood flow in the brain of a human.  Data from Generation 1 Stroke Detection Device testing in human studies will inform design changes to subsequent prototypes.
 
 ## Features
 
 - Measure and display blood flow index and blood volume index
-- Three data collection modes - single scan, long scan, and continuous monitoring
-- Data retrieval via USB or SSH remote connection
-- Device console can be mounted to standard IV poles for clinical use
+- Included a hand held wand, so many places on the scalp could be meausred
+- Data retrieval was process on the embedded computer
+- movable cart 
+
+## Gen 1 to gen 1B device
+
+After use in the hospital setting we received input that the Gen 1 device was too hard to move into small the small rooms needed for patient measurement.  The Gen 1B deviced was re-configured to take up less floor space, in addition the laser source module was miniturized and reduced in cost in preparation for a Gen 2 system that would mount to an IV pole. 
+
+
+
 
 ## Table of Contents
 
