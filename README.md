@@ -5,7 +5,7 @@ Gen 1 Blood Flow Hardware
 
 # Openwater Generation 1 Blood Flow Device
 
-The Generation 1 Stroke Detection Device is the first in a series of prototypes developed to measure blood flow in the brain of a human.  Data from Generation 1 Stroke Detection Device testing in human studies will inform design changes to subsequent prototypes.
+The Generation 1 Stroke Detection Device is the first in a series of prototypes developed to measure blood flow in the brain of a human.  Data from Generation 1 Stroke Detection Device testing in human studies informed design changes to subsequent prototypes.
 
 ## Features
 
