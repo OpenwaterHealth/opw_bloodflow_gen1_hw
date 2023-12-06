@@ -57,7 +57,7 @@ Various assembly and test equipment items are needed to build the blood flow dev
 
 ### Usage
 
-See the Qpenwater repo for required software, for User Manual. 
+See the Openwater repo for Software, for User Manual. 
 
 
 ## Contributing
