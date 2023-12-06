@@ -28,7 +28,7 @@ For the highest percentage of patients, the best data was found to come from are
 
 High level white paper on Gen 1B data
 
-[link}(gen1 BF White Paper.pdf)
+[link](#gen1 BF White Paper.pdf)
 
 
 ## Table of Contents
