@@ -2,6 +2,8 @@
 
 The Generation 1 Stroke Detection Device is the first in a series of prototypes developed to measure blood flow in the brain of a human.  Data from Generation 1 Stroke Detection Device testing in human studies informed design changes to subsequent prototypes.
 
+![gen1b](https://github.com/OpenwaterInternet/opw_bloodflow_gen1_hw/assets/152337285/65650be8-cdae-41f2-8c2f-7e3c3216ef98)
+
 ## Features
 
 - Measure and display blood flow index and blood volume index
