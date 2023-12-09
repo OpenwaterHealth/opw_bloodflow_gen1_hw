@@ -35,11 +35,11 @@ These models comprise the custom assemblies that were designed to meet the speci
 
 Some of the detail for the Gen 1B device is omitted because there are improved versions of the entire device and subassemblies readily available in the Gen 2 repo.  The Gen 2 device was fully documented and was designed as the manufacturable replacement for the Gen 1B prototype device. 
 
-### Prerequisites
+## Prerequisites
 
 Various assembly and test equipment items are needed to build the blood flow device. See repo for test and calibration equipment.
 
-### Usage
+## Usage
 
 See the Openwater repo for Software, for User Manual. 
 
