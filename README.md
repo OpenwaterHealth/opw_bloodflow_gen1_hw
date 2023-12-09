@@ -14,7 +14,7 @@ The Generation 1 Stroke Detection Device is the first in a series of prototypes 
 - [License](#license)
 
 ## Getting Started
-
+Before getting started with the design data included in this repo, you may want to visit the Gen 2 Blood Flow Hardware Wiki for some background information on the system and its design. You may also want to review the See the [Openwater Blood Flow Gen 1 Software](link) and [Openwater Blood Flow Gen 1 Analysis](link) repos for additional information about the system and its operation. 
 
 ## Features
 
